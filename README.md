@@ -12,7 +12,7 @@
 - **Automated Payment Status Check (Scheduler)**  
   Periodic verification of pending transactions using Laravel Scheduler.
 
-- **Queue & Job आधारित Notification System**  
+- **Queue & Job Notification System**  
   Asynchronous email notifications using Laravel Queue with priority handling.
 
 - **Email Notification System**  
